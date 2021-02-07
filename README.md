@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sealedjoy" alt="sealedjoy" /></a> </p>
 
 
-- 💬 Ask me about **bash, python, arduino**
+- 💬 Ask me about **bash, python, automation, raspi, arduino**
 
-- 📫 How to reach me **sealedjoy@gmail.com**
+- 📫 Reach me at **sealedjoy@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

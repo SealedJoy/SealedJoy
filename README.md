@@ -2,8 +2,8 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/SealedJoy/images/main/axosay_final.gif" width="500"></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sealedjoy&theme=onedark" alt="sealedjoy" width=500/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sealedjoy&theme=tokyonight" alt="sealedjoy" width=500/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sealedjoy&show_icons=true&locale=en&theme=onedark" alt="sealedjoy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sealedjoy&show_icons=true&locale=en&theme=tokyonight" alt="sealedjoy" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sealedjoy&theme=onedark" alt="sealedjoy" width=500/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sealedjoy&theme=tokyonight" alt="sealedjoy" width=500/></a> </p>

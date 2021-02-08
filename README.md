@@ -6,6 +6,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sealedjoy&show_icons=true&locale=en&theme=tokyonight" alt="sealedjoy" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sealedjoy&repo=axosay&theme=tokyonight" width=500/> <a href="https://github.com/sealedjoy/axosay" </a> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bin&theme=tokyonight" width=500/> <a href="https://github.com/t-e-l/bin" </a>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bootstrap-changes&theme=tokyonight" width=500/> <a href="https://github.com/t-e-l/bootstrap-changes" </a> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sealedjoy&repo=axosay&theme=tokyonight" width=500/> <a href="https://github.com/sealedjoy/axosay" </a> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bin&theme=tokyonight" width=500/> <a href="https://github.com/t-e-l/bin" </a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bootstrap-changes&theme=tokyonight" width=500/> <a href="https://github.com/t-e-l/bootstrap-changes" </a> </p>

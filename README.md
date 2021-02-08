@@ -14,7 +14,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sealedjoy&" alt="sealedjoy" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sealedjoy-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!---[![trophy](https://github-profile-trophy.vercel.app/?username=sealedjoy-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ---/>
 
 
 

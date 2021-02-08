@@ -7,6 +7,6 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sealedjoy&repo=axosay&theme=tokyonight" width=500/> <a href="https://github.com/sealedjoy/axosay" </a> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bin&theme=tokyonight" width=500/> <a href="https://github.com/t-e-l/bin" </a></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bootstrap-changes&theme=tokyonight" width=500/> <a href="https://github.com/t-e-l/bootstrap-changes" </a> </p>
+<p align="center"> <a href="https://github.com/sealedjoy/axosay"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sealedjoy&repo=axosay&theme=tokyonight" width=500/> </a> </p>
+<p align="center"> <a href="https://github.com/t-e-l/bin"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bin&theme=tokyonight" width=500/>  </a> </p>
+<p align="center"> <a href="https://github.com/t-e-l/bootstrap-changes"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bootstrap-changes&theme=tokyonight" width=500/>  </a> </p>

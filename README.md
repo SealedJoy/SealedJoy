@@ -5,7 +5,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sealedjoy&" alt="sealedjoy" width=500/></p>
 
-<!---[![](https://github-profile-trophy.vercel.app/?username=sealedjoy-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)---/>
+<!---[![](https://github-profile-trophy.vercel.app/?username=sealedjoy-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)---/!>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sealedjoy&show_icons=true&locale=en" alt="sealedjoy" /></p>
 

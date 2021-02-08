@@ -5,11 +5,6 @@
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sealedjoy&show_icons=true&locale=en&layout=compact" alt="sealedjoy" /></p>
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sealedjoy&" alt="sealedjoy" /></p>
 
 [![](https://github-profile-trophy.vercel.app/?username=sealedjoy-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -19,3 +14,9 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sealedjoy" alt="sealedjoy" /></a> </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sealedjoy&show_icons=true&locale=en&layout=compact" alt="sealedjoy" /></p>
+
+

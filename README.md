@@ -6,7 +6,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sealedjoy&show_icons=true&locale=en&theme=tokyonight" alt="sealedjoy" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sealedjoy&repo=axosay&theme=tokyonight" width=500/> <a href="https://github.com/anuraghazra/github-readme-stats" </a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sealedjoy&repo=axosay&theme=tokyonight" width=500/> <a href="https://github.com/sealedjoy/axosay" </a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bin&theme=tokyonight" width=500/> <a href="https://github.com/t-e-l/bin" </a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bootstrap-changes&theme=tokyonight" width=500/> <a href="https://github.com/t-e-l/bootstrap-changes" </a> </p>
 <p align="center">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bin&theme=tokyonight)](https://github.com/t-e-l/bin)
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sealedjoy&theme=tokyonight" alt="sealedjoy" width=500/></a> </p>

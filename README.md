@@ -5,7 +5,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sealedjoy&theme=tokyonight" alt="sealedjoy" width=500/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sealedjoy&show_icons=true&locale=en&theme=tokyonight" alt="sealedjoy" /></p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bin)](https://github.com/t-e-l/bin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sealedjoy&repo=bin)](https://github.com/t-e-l/bin)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -2,19 +2,11 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/SealedJoy/images/main/axosay_final.gif" width="500"></p>
 
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sealedjoy&" alt="sealedjoy" width=500/></p>
-
-
-
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sealedjoy&show_icons=true&locale=en" alt="sealedjoy" /></p>
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sealedjoy" alt="sealedjoy" /></a> </p>
 
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=sealedjoy-ma&theme=onedark" width="500"/></p>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=sealedjoy-ma&theme=onedark" alt="sealedjoy" width="500"/></p>
-
-
-<!---[![](https://github-profile-trophy.vercel.app/?username=sealedjoy-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)---</!>

@@ -8,5 +8,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SealedJoy&repo=axosay)](https://github.com/sealedjoy/axosay)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sealedjoy&repo=axosay)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sealedjoy&theme=tokyonight" alt="sealedjoy" width=500/></a> </p>

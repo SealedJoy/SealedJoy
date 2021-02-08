@@ -5,5 +5,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sealedjoy&theme=tokyonight" alt="sealedjoy" width=500/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sealedjoy&show_icons=true&locale=en&theme=tokyonight" alt="sealedjoy" /></p>
+[![TEL Applets](https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bin)](https://github.com/t-e-l/bin)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sealedjoy&theme=tokyonight" alt="sealedjoy" width=500/></a> </p>

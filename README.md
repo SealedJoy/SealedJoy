@@ -13,4 +13,4 @@
 
 <p align="center"> <a href="https://github.com/t-e-l/bootstrap-changes"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=t-e-l&repo=bootstrap-changes&theme=tokyonight" width=500/>  </a> </p>
 
-<p align="center"> <a href="https://www.buymeacoffee.com/sealyj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width=100 alt="Buy Me A Coffee"  ></a> </p>
+<p align="center"> <a href="https://www.buymeacoffee.com/sealyj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width=200 alt="Buy Me A Coffee"  ></a> </p>
